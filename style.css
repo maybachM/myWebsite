@@ -1,0 +1,35 @@
+body {
+	background-color: #fff; /* Background color of content */
+	color: #900; /* Color of content text */
+}
+
+#banner {
+	width: 100%;
+	background-color: #900; /* Background color of banner */
+	color: #fff; /* Color of banner text */
+}
+
+#menu {
+	width: 30%;
+	height: 100%;
+	background-color: #999; /* Background color of menu */
+	color: #fff; /* Color of banner menu */
+	float: left;
+}
+
+#menu a {
+		color: #000
+}
+
+#content {
+	width: 70%;
+	float: right;
+}
+
+#content .About-section {
+	font-size: 2em;
+}
+
+.title {
+	text-align: center;
+}
